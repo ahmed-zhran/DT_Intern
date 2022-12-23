@@ -6,3 +6,4 @@
 **WISHKARMA_tasks**:
   1. syncing_to_airtable_api
   2. exploring-react
+  3. react-boilerplate
