@@ -1,4 +1,4 @@
-##getting used to the structure of react-boilerplate and use the redux and redux saga for first time in crud operations
+**getting used to the structure of react-boilerplate and use the redux and redux saga for first time in crud operations**
 
 <img src="https://raw.githubusercontent.com/react-boilerplate/react-boilerplate-brand/master/assets/banner-metal-optimized.jpg" alt="react boilerplate banner" align="center" />
 
